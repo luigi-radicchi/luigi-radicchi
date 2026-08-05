@@ -20,4 +20,4 @@ Certifications:
   -  Data analytics professional certificate by DeepLearning.ai
   -  Microsoft SQL
 
-In the Projects section you can find my Data Analytics projects 🛠️
+In the following repositories you can find my Data Analytics projects 🛠️
