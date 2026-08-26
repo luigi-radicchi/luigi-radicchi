@@ -1,6 +1,6 @@
 ## Hi everybody! 👋
 
-I'm Luigi Radicchi, a mechanical engineering with 8+ years of experience in:
+I'm Luigi Radicchi, a mechanical engineer with 8+ years of experience in:
 
   -  Product testing and development & data analysis for R&D  |  🚗 Automotive industry 
   -  Avionics product assurance engineer & data analysis for quality improvement  |  ✈️ AD&S industry
